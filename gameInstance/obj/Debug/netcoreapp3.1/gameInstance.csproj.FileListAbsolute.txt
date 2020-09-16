@@ -1,0 +1,28 @@
+D:\miske\AIPS\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.exe
+D:\miske\AIPS\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.deps.json
+D:\miske\AIPS\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.runtimeconfig.json
+D:\miske\AIPS\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.runtimeconfig.dev.json
+D:\miske\AIPS\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.dll
+D:\miske\AIPS\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.pdb
+D:\miske\AIPS\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.csprojAssemblyReference.cache
+D:\miske\AIPS\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.AssemblyInfoInputs.cache
+D:\miske\AIPS\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.AssemblyInfo.cs
+D:\miske\AIPS\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.dll
+D:\miske\AIPS\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.pdb
+D:\miske\AIPS\gameInstance\bin\Debug\netcoreapp3.1\NATS.Client.dll
+D:\miske\AIPS\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.csproj.CopyComplete
+D:\miske\AIPS\gameInstance\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.exe
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.deps.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.runtimeconfig.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.runtimeconfig.dev.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\bin\Debug\netcoreapp3.1\gameInstance.pdb
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\bin\Debug\netcoreapp3.1\NATS.Client.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.csprojAssemblyReference.cache
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.AssemblyInfoInputs.cache
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.AssemblyInfo.cs
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.csproj.CopyComplete
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\gameInstance\obj\Debug\netcoreapp3.1\gameInstance.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>PieroDeTomi.DotNet.WebUtils</PackageId>
+    <Authors>Piero De Tomi</Authors>
+    <Company />
+    <Product>PieroDeTomi.DotNet.WebUtils</Product>
+    <Description>Web utility classes for .NET</Description>
+    <RepositoryUrl>https://github.com/pierodetomi/dotnet-webutils</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageLicenseUrl>https://github.com/pierodetomi/dotnet-webutils/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/pierodetomi/dotnet-webutils</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+</Project>

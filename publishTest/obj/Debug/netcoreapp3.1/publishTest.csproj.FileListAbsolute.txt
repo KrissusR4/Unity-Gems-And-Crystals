@@ -1,0 +1,28 @@
+d:\miske\AIPS\publishTest\bin\Debug\netcoreapp3.1\publishTest.exe
+d:\miske\AIPS\publishTest\bin\Debug\netcoreapp3.1\publishTest.deps.json
+d:\miske\AIPS\publishTest\bin\Debug\netcoreapp3.1\publishTest.runtimeconfig.json
+d:\miske\AIPS\publishTest\bin\Debug\netcoreapp3.1\publishTest.runtimeconfig.dev.json
+d:\miske\AIPS\publishTest\bin\Debug\netcoreapp3.1\publishTest.dll
+d:\miske\AIPS\publishTest\bin\Debug\netcoreapp3.1\publishTest.pdb
+d:\miske\AIPS\publishTest\obj\Debug\netcoreapp3.1\publishTest.csprojAssemblyReference.cache
+d:\miske\AIPS\publishTest\obj\Debug\netcoreapp3.1\publishTest.AssemblyInfoInputs.cache
+d:\miske\AIPS\publishTest\obj\Debug\netcoreapp3.1\publishTest.AssemblyInfo.cs
+d:\miske\AIPS\publishTest\obj\Debug\netcoreapp3.1\publishTest.dll
+d:\miske\AIPS\publishTest\obj\Debug\netcoreapp3.1\publishTest.pdb
+d:\miske\AIPS\publishTest\bin\Debug\netcoreapp3.1\NATS.Client.dll
+d:\miske\AIPS\publishTest\obj\Debug\netcoreapp3.1\publishTest.csproj.CopyComplete
+d:\miske\AIPS\publishTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\obj\Debug\netcoreapp3.1\publishTest.csprojAssemblyReference.cache
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\obj\Debug\netcoreapp3.1\publishTest.AssemblyInfoInputs.cache
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\obj\Debug\netcoreapp3.1\publishTest.AssemblyInfo.cs
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\obj\Debug\netcoreapp3.1\publishTest.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\obj\Debug\netcoreapp3.1\publishTest.pdb
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\bin\Debug\netcoreapp3.1\publishTest.exe
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\bin\Debug\netcoreapp3.1\publishTest.deps.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\bin\Debug\netcoreapp3.1\publishTest.runtimeconfig.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\bin\Debug\netcoreapp3.1\publishTest.runtimeconfig.dev.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\bin\Debug\netcoreapp3.1\publishTest.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\bin\Debug\netcoreapp3.1\publishTest.pdb
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\bin\Debug\netcoreapp3.1\NATS.Client.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\publishTest\obj\Debug\netcoreapp3.1\publishTest.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\krisj\Downloads\dotnet-webutils-master\bin\Debug\netcoreapp2.1\dotnet-webutils-master.deps.json
+C:\Users\krisj\Downloads\dotnet-webutils-master\bin\Debug\netcoreapp2.1\dotnet-webutils-master.runtimeconfig.json
+C:\Users\krisj\Downloads\dotnet-webutils-master\bin\Debug\netcoreapp2.1\dotnet-webutils-master.runtimeconfig.dev.json
+C:\Users\krisj\Downloads\dotnet-webutils-master\bin\Debug\netcoreapp2.1\dotnet-webutils-master.dll
+C:\Users\krisj\Downloads\dotnet-webutils-master\bin\Debug\netcoreapp2.1\dotnet-webutils-master.pdb
+C:\Users\krisj\Downloads\dotnet-webutils-master\obj\Debug\netcoreapp2.1\dotnet-webutils-master.csprojAssemblyReference.cache
+C:\Users\krisj\Downloads\dotnet-webutils-master\obj\Debug\netcoreapp2.1\dotnet-webutils-master.csproj.CoreCompileInputs.cache
+C:\Users\krisj\Downloads\dotnet-webutils-master\obj\Debug\netcoreapp2.1\dotnet-webutils-master.AssemblyInfoInputs.cache
+C:\Users\krisj\Downloads\dotnet-webutils-master\obj\Debug\netcoreapp2.1\dotnet-webutils-master.AssemblyInfo.cs
+C:\Users\krisj\Downloads\dotnet-webutils-master\obj\Debug\netcoreapp2.1\dotnet-webutils-master.dll
+C:\Users\krisj\Downloads\dotnet-webutils-master\obj\Debug\netcoreapp2.1\dotnet-webutils-master.pdb

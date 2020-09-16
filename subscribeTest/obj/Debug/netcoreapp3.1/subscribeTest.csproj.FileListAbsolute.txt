@@ -1,0 +1,28 @@
+d:\miske\AIPS\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.csprojAssemblyReference.cache
+d:\miske\AIPS\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.AssemblyInfoInputs.cache
+d:\miske\AIPS\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.AssemblyInfo.cs
+d:\miske\AIPS\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.exe
+d:\miske\AIPS\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.deps.json
+d:\miske\AIPS\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.runtimeconfig.json
+d:\miske\AIPS\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.runtimeconfig.dev.json
+d:\miske\AIPS\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.dll
+d:\miske\AIPS\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.pdb
+d:\miske\AIPS\subscribeTest\bin\Debug\netcoreapp3.1\NATS.Client.dll
+d:\miske\AIPS\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.csproj.CopyComplete
+d:\miske\AIPS\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.dll
+d:\miske\AIPS\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.pdb
+d:\miske\AIPS\subscribeTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.exe
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.deps.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.runtimeconfig.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.runtimeconfig.dev.json
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\bin\Debug\netcoreapp3.1\subscribeTest.pdb
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\bin\Debug\netcoreapp3.1\NATS.Client.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.csprojAssemblyReference.cache
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.AssemblyInfoInputs.cache
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.AssemblyInfo.cs
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.csproj.CopyComplete
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.dll
+D:\ELFAK\IV godina\VII Semestar\Arhitektura I Projektovanje Softvera\Project\subscribeTest\obj\Debug\netcoreapp3.1\subscribeTest.pdb
